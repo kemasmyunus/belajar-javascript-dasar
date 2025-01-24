@@ -1,0 +1,11 @@
+document.writeln( "tipe data number" );
+document.writeln( 100 );
+document.writeln("</br>");
+document.writeln( "tipe data float" );
+document.writeln( 100.123 );
+document.writeln("</br>");
+document.writeln( "tipe data biner" );
+document.writeln( 0b1111010 );
+document.writeln( "<br>" );
+document.writeln( "tipe data hexa" );
+document.writeln( 0xA2D99 );
