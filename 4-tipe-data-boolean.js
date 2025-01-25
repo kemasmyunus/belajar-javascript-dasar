@@ -1,0 +1,1 @@
+document.writeln(`<p>tipe data boolean terdiri dari dua yaitu ${true} dan ${false}</p>`)
